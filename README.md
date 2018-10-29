@@ -1,8 +1,8 @@
 # Rhyme Generator
 
-![rhyme_generator](https://user-images.githubusercontent.com/23084941/47628270-27950180-db0b-11e8-887b-8dcd080c2e91.jpg)
-
 User is prompted to enter their word of choosing and the system parses out to a json file to and utilizes the API to generate over one-hundred rhyming words and user has the ability to continue with new words to rhyme or quit out of the final loop of the program
+
+![rhyme_generator](https://user-images.githubusercontent.com/23084941/47628270-27950180-db0b-11e8-887b-8dcd080c2e91.jpg)
 
 ## Getting Started
 
@@ -10,11 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+There are no installation of package required due to our implementation of rhyming API 
 
 ### Installing
 
