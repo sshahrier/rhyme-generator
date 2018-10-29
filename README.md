@@ -54,5 +54,5 @@ Give an example
 
 ## Built With
 
-* [DataMuse](http://http://www.datamuse.com/api/) - A Datamuse API which is a word-finding engine used to match based on a set of rules. 
+* [DataMuse](http://www.datamuse.com/api/) - A Datamuse API which is a word-finding engine used to match based on a set of rules. 
 
