@@ -1,5 +1,7 @@
 # Rhyme Generator
 
+## Project Description
+
 User is prompted to enter their word of choosing and the system parses out to a json file to and utilizes the API to generate over one-hundred rhyming words and user has the ability to continue with new words to rhyme or quit out of the final loop of the program
 
 ![rhyme_generator](https://user-images.githubusercontent.com/23084941/47628270-27950180-db0b-11e8-887b-8dcd080c2e91.jpg)
@@ -10,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-There are no installation of package required due to our implementation of rhyming API 
+There are no installation of package required for this project. 
 
 ### Installing
 
@@ -35,14 +37,6 @@ End with an example of getting some data out of the system or using it for a lit
 Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
 
 Explain what these tests test and why
 
